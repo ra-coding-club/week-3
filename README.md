@@ -11,6 +11,24 @@
 
 > One of the hardest things to learn in programming is not the syntax you need to learn, but how to apply it to solve real world problems. You need to start thinking like a programmer — this generally involves looking at descriptions of what your program needs to do,  working out what code features are needed to achieve those things, and how to make them work together. This requires a mixture of hard work, experience with the programming syntax, and practice — plus a bit of creativity. The more you code, the better you'll get at it. 
 
+# Application Creation Process
+
+1. Design
+    * Brainstorm
+    * Wireframe
+    
+2. Develop
+    * Code
+    * Debug
+    * Compile
+    
+3. Distribute
+    * Package
+    * Market 
+    * Sell
+    
+*Not only for apps! Can be applied to everything!*
+
 # Planning a Simple Website
 
 > Once you've planned out the content of a simple webpage, the next logical step is to try to work out what content you want to put on a whole website, what pages you need, and how they should be arranged and link to one another for the best possible user experience. This is called Information architecture. In a large, complex website, a lot of planning can go into this process, but for a simple website of a few pages this can be fairly simple, and fun!
@@ -34,3 +52,5 @@
 > 5 - Now try to sketch a rough sitemap — have a bubble for each page on your site, and draw lines to show the typical workflow between pages. The homepage will probably be in the center, and link to most if not all of the others; most of the pages in a small site should be available from the main navigation, although there are exceptions. You might also want to include notes about how things might be presented.
 
 > <img src="https://mdn.mozillademos.org/files/12427/site-map.png" width="50%">
+
+# [GitHub Pages](https://pages.github.com/)
