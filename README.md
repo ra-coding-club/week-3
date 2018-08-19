@@ -14,6 +14,7 @@
 # Planning a Simple Website
 
 > Once you've planned out the content of a simple webpage, the next logical step is to try to work out what content you want to put on a whole website, what pages you need, and how they should be arranged and link to one another for the best possible user experience. This is called Information architecture. In a large, complex website, a lot of planning can go into this process, but for a simple website of a few pages this can be fairly simple, and fun!
+
 > 1 - Bear in mind that you'll have a few elements common to most (if not all) pages — such as the navigation menu, and the footer content. If your site is for a business, for example, it's a good idea to have your contact information available in the footer on each page. Note down what you want to have common to every page.
 
 > <img src="https://mdn.mozillademos.org/files/12423/common-features.png" width="50%">
