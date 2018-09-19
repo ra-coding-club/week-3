@@ -54,3 +54,5 @@
 > <img src="https://mdn.mozillademos.org/files/12427/site-map.png" width="50%">
 
 # [GitHub Pages](https://pages.github.com/)
+
+**Copyright &copy; 2018 Riyaad Azad. Free to copy and distribute as per the [official license on GitHub](https://github.com/ra-coding-club/coding-club/blob/master/LICENSE). All other rights reserved.** 
