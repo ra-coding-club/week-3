@@ -55,4 +55,14 @@
 
 # [GitHub Pages](https://pages.github.com/)
 
+# Further Information
+
+For more information on JS, please visit [the JS Course on TutorialsPoint](https://www.tutorialspoint.com/javascript/javascript_quick_guide.htm). 
+
+## Activities
+
+* [Logo Design Quiz](http://www.jpink.co.uk/logo_quiz/) Learn why (graphic) design is important through this fun challenge :-)
+* [Font Game](http://ilovetypography.com/ifontgame/) Think you know your fonts?
+* [MIT App Inventor](http://appinventor.mit.edu/explore/)  Build your own Android mobile application (with little to no coding required)
+
 **Copyright &copy; 2018 Riyaad Azad. Free to copy and distribute as per the [official license on GitHub](https://github.com/ra-coding-club/coding-club/blob/master/LICENSE). All other rights reserved.** 
