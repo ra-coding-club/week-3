@@ -61,6 +61,8 @@ For more information on JS, please visit [the JS Course on TutorialsPoint](https
 
 ## Activities
 
+* [Try JavaScript by Pluralsight](https://www.javascript.com/try) Start learning JavaScript with Pluralsight's free real-time tutorial!
+* [.NET & C# In-Browser Tutorial](https://www.microsoft.com/net/learn/dotnet/in-browser-tutorial/1) Learn the basics of the Microsoft technologies .NET & C# 
 * [Logo Design Quiz](http://www.jpink.co.uk/logo_quiz/) Learn why (graphic) design is important through this fun challenge :-)
 * [Font Game](http://ilovetypography.com/ifontgame/) Think you know your fonts?
 * [MIT App Inventor](http://appinventor.mit.edu/explore/)  Build your own Android mobile application (with little to no coding required)
